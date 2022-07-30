@@ -19,4 +19,5 @@ New line means a new question or a new answer.
 
 For a multiple choice quizz, just mark multiple answers with the '+' symbol
 
-![image](https://user-images.githubusercontent.com/56390305/181925039-b4ba9a0d-3e6e-4c82-92b3-ea15a2f708ae.png)
+![image](https://user-images.githubusercontent.com/56390305/181925127-467ef68a-f6db-4dc0-951c-91e38c3512f9.png)
+
