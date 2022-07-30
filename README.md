@@ -1,16 +1,20 @@
-# quizz_app
+# QuizzSimulation
 
-A new Flutter project.
+A simple flutter project to simulate a quizz test with single or multiple answer choices.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+All you need is a pdf file formatted like below:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+§Question
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
++Correct answer
+
+-Not correct answer
+
+
+
+New line means a new question or a new answer.
+
+For a multiple choice quizz, just mark multiple answers with the '+' symbol
